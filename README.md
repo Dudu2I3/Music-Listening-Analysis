@@ -11,10 +11,10 @@
 
 ## Запуск
 1. Клонировать репозиторий:
-   ```bash
-   git clone https://github.com/username/lastfm-analysis.git
-   cd lastfm-analysis
-   ```
+```bash
+git clone https://github.com/Dudu2I3/Music-Listening-Analysis
+cd Music-Listening-Analysis
+```
 2. Создать и активировать виртуальное окружение:
 ```bash
 python -m venv venv
